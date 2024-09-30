@@ -12,6 +12,7 @@ Update Word: Users can edit the translations of existing words.
 <br/>
 Delete Word: Users can delete unnecessary words.
 <br/>
+<br/>
 Technologies
 <br/>
 Backend: ASP.NET Core
@@ -24,6 +25,7 @@ HTTP Communication: Axios
 <br/>
 Installation
 To run the project in your local environment, you can follow the steps below:
+<br/>
 <br/>
 Backend Setup:
 <br/>
@@ -43,11 +45,12 @@ Run the command npm install to install the necessary dependencies.
 <br/>
 Use the command npm start to run the application.
 <br/>
+<br/>
 Contributing
 <br/>
 If you would like to contribute to this project, feel free to share your suggestions and bug reports. Your feedback will help us improve the development process.
 <br/>
-
+<br/>
 Contact
 <br/>
 If you have any questions or suggestions, please contact me at yagiztopaldemir00@gmail.com.
