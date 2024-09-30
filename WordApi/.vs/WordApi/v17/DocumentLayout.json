@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\Projects\\EngWordApi\\WordApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|c:\\code\\projects\\engwordapi\\wordapi\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|solutionrelative:controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|c:\\code\\projects\\engwordapi\\wordapi\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|solutionrelative:models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|c:\\code\\projects\\engwordapi\\wordapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|c:\\code\\projects\\engwordapi\\wordapi\\wordapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|solutionrelative:wordapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|c:\\code\\projects\\engwordapi\\wordapi\\data\\20240929150939_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA2567B-633D-48B3-BA09-EDE0A7B83345}|WordApi.csproj|solutionrelative:data\\20240929150939_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\Projects\\EngWordApi\\WordApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\code\\Projects\\EngWordApi\\WordApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:11:59.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240929150939_InitialCreate.cs",
+              "DocumentMoniker": "C:\\code\\Projects\\EngWordApi\\WordApi\\Data\\20240929150939_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\20240929150939_InitialCreate.cs",
+              "ToolTip": "C:\\code\\Projects\\EngWordApi\\WordApi\\Data\\20240929150939_InitialCreate.cs",
+              "RelativeToolTip": "Data\\20240929150939_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:09:39.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "C:\\code\\Projects\\EngWordApi\\WordApi\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WordsController.cs",
+              "ToolTip": "C:\\code\\Projects\\EngWordApi\\WordApi\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "Controllers\\WordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:07:37.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\code\\Projects\\EngWordApi\\WordApi\\Models\\Word.cs",
+              "RelativeDocumentMoniker": "Models\\Word.cs",
+              "ToolTip": "C:\\code\\Projects\\EngWordApi\\WordApi\\Models\\Word.cs",
+              "RelativeToolTip": "Models\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:05:19.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordApi.csproj",
+              "DocumentMoniker": "C:\\code\\Projects\\EngWordApi\\WordApi\\WordApi.csproj",
+              "RelativeDocumentMoniker": "WordApi.csproj",
+              "ToolTip": "C:\\code\\Projects\\EngWordApi\\WordApi\\WordApi.csproj",
+              "RelativeToolTip": "WordApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T15:04:56.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
