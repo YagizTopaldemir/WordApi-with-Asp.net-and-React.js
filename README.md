@@ -1,4 +1,4 @@
-About
+
 This project is a Word API application developed using ASP.NET Core and React.js. Users can manage English words and their Turkish translations. The application allows users to add, edit, and delete words, aiming to provide a modern and user-friendly interface for easy word management.
 
 Features
